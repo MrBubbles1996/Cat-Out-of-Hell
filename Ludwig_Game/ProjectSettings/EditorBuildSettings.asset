@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 37aa74eee1ba586409a6b709d15ecc04
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 1.unity
+    guid: 4e45c0b6c2d857b42a93207a5b3667f5
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 2.unity
+    guid: 35a742a3f61119e4b87ae9d309c5ee10
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 3.unity
+    guid: a4b37c2a603c7e948a6553a8af2e490c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 4.unity
+    guid: 1eae5fe07075b594abc702f0c9a54cd3
+  - enabled: 1
+    path: Assets/Scenes/Round 1.unity
+    guid: 9589686bed429cd46a1d7a715bfdd0d8
+  - enabled: 1
+    path: Assets/Scenes/Round 2.unity
+    guid: 342b118f26b3957408fae7eeca683ab5
+  - enabled: 1
+    path: Assets/Scenes/Round 3.unity
+    guid: 73b4f72ab2e8635488cf8378afceb3c4
+  - enabled: 1
+    path: Assets/Scenes/Round 4.unity
+    guid: f8181e5caa0d2c24093f1afb8464cc4e
+  - enabled: 1
+    path: Assets/Scenes/Round 5.unity
+    guid: f9351099dbb725a42b0838c5f00a2d82
+  - enabled: 1
+    path: Assets/Scenes/End Credits.unity
+    guid: e3be7d3e5a8307a439a66e952c0eeee6
+  m_configObjects: {}
